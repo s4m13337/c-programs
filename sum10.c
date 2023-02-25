@@ -8,4 +8,5 @@ int main(){
 		result += i;
 	}
 	printf("The sum of first 10 numbers is %d.\n", result);
+	return 0;
 }
